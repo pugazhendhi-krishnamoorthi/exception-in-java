@@ -21,5 +21,8 @@ public class NumberByZero {
 		
 		System.out.println(div);
 		System.out.println(mul);
+		
+		System.out.print("hello");
+		
 	}
 }
